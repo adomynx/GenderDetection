@@ -1,5 +1,5 @@
-# author: Arun Ponnusamy
-# website: https://www.arunponnusamy.com
+# author: kartik wakekar
+# website: kartikwakekar.me
 
 # import necessary packages
 from keras.preprocessing.image import img_to_array
